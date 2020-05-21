@@ -37,7 +37,7 @@ For example, in the font page section of the object, you can replace the json fi
 "twitter_link":"Insert url to your Twitter page here",
 ```
 
-When your finished, save the file and the webpage should update automatically.
+When you are finished, save the file and the webpage should update automatically.
 ## Author
 
 Thomas Reilly - thomas.edreilly@gmail.com
