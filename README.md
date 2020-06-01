@@ -2,7 +2,7 @@
 A React App built to serve a single page website showing a simple resume and portfolio. The data that appears on the webpage can easily be changed and updated with the src/config.js file. With little effort you can make this website your own and easily update it with data over time. More on how to do this can be found below.
 
 ![Website Frontpage](./public/images/personal-web.png)
-This webpage is live on [thomasreilly.tech](https://www.thomasreilly.tech), my personal website hosted on a raspberry pi .
+This webpage is live on [thomasreilly.tech](https://www.thomasreilly.tech), my personal website hosted by linode.
 
 ## Pre-requisites
 To run this website on your local machine you should have a stable version of [node.js](https://www.nodejs.org) and npm installed.
